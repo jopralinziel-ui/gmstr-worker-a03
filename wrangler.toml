@@ -1,0 +1,22 @@
+name = "gmstr-worker-a03"
+main = "src/index.js"
+compatibility_date = "2025-12-04"
+
+# =========================================================
+# VARIABLES (Plaintext)
+# ---------------------------------------------------------
+#  Type         Name               Value
+# ---------------------------------------------------------
+#  Plaintext    GLDTR_SYMBOL       GLDTR.IS
+#  Plaintext    GMSTR_SYMBOL       GMSTR.IS
+#  Plaintext    SHEET_ID           1goSovwwMAaQtZHz3IcytI2g9q9wdiH_GybZuMgIPMio
+#  Plaintext    SHEET_NAME         stooq01yahoo1
+#  Plaintext    SHEET_RANGE        A:G
+# =========================================================
+
+# =========================================================
+# SECRETS (Dashboard veya `wrangler secret put` ile girilir)
+# ---------------------------------------------------------
+#  Secret       GOOGLE_CLIENT_EMAIL     Value encrypted
+#  Secret       GOOGLE_PRIVATE_KEY      Value encrypted
+# =========================================================
